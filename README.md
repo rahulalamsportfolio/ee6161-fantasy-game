@@ -142,7 +142,7 @@ Requires **Qt Creator** with a C++17-compatible compiler (tested on Windows).
 
 | Name | Student ID | GitHub |
 |------|-----------|--------|
-| Ruhul Alam | — | [@rahulalamsportfolio](https://github.com/rahulalamsportfolio) |
+| Rahul Alam | — | [@rahulalamsportfolio](https://github.com/rahulalamsportfolio) |
 | — | — | — |
 | — | — | — |
 
